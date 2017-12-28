@@ -3,8 +3,8 @@
 def display_board(board)
 
 board = [" ", " ", " ", " ", "  ", " ", " ", " ", " "]
-board = [" ", " ", " ", " ", " X ", " ", " ", " ", " "]
-board = [" O ", " ", " ", " ", " X ", " ", " ", " ", " "]
+display_board = [" ", " ", " ", " ", " X ", " ", " ", " ", " "]
+display_board = [" O ", " ", " ", " ", " X ", " ", " ", " ", " "]
 puts " #{board[0]} | #{board[1]} | #{board[2]} "
 puts "-----------"
 puts " #{board[3]} | #{board[5]} | #{board[5]} "
