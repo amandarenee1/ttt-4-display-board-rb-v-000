@@ -11,9 +11,4 @@ puts "-----------"
 puts " #{board[6]} | #{board[7]} | #{board[8]} "
 board = [" ", " ", " ", " ", " X ", " ", " ", " ", " "]
 end
-def add(a, b){
-  a = 0
-  b = 1
-  a + b
-end
-add(2, 5)
+
