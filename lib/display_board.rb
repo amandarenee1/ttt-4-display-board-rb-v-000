@@ -9,5 +9,5 @@ puts "-----------"
 puts " #{board[3]} | #{board[5]} | #{board[5]} "
 puts "-----------"
 puts " #{board[6]} | #{board[7]} | #{board[8]} "
-puts "#{X[5]}"
+display_board = [" ", " ", " ", " ", " X ", " ", " ", " ", " "]
 end
